@@ -1,7 +1,7 @@
 # Mapas de Republica Dominicana
 Este repositorio es para graficar mapas politicos de Republica Dominicana utilizando Python. 
 
-Primero se necesitan los "shapefiles" del pais, los cuales pueden ser adquiridos en la Oficina Nacional de Estadistica. Los archivos .shp se pueden tambien encontrar en este link: 
+Primero se necesitan los "shapefiles" del pais, los cuales pueden ser adquiridos en la Oficina Nacional de Estadistica. Los archivos .shp se pueden tambien encontrar en este link: https://drive.google.com/drive/folders/1SfMj8GL-T2-BScHSbEt5NwpVU8mPZQGF?usp=sharing
 
 El archivo principal es Mapa_RD.ipynb 
 
